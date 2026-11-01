@@ -1,0 +1,903 @@
+fileFormatVersion: 2
+guid: 23dc15e4b0a9ea14bbcb37c9f0f24466
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3996779985259631817
+    second: Karekter W_0
+  - first:
+      213: -4552130943745673431
+    second: Karekter W_1
+  - first:
+      213: 4572840951707429766
+    second: Karekter W_2
+  - first:
+      213: 4157863610558493015
+    second: Karekter W_3
+  - first:
+      213: -1792439371081720538
+    second: Karekter W_4
+  - first:
+      213: -6078072817932321145
+    second: Karekter W_5
+  - first:
+      213: -5596518508772833622
+    second: Karekter W_6
+  - first:
+      213: -4508355442119947165
+    second: Karekter W_7
+  - first:
+      213: -270433926936243774
+    second: Karekter W_8
+  - first:
+      213: 2409888470051615942
+    second: Karekter W_9
+  - first:
+      213: -4394297469092391799
+    second: Karekter W_10
+  - first:
+      213: -1362699934961999837
+    second: Karekter W_11
+  - first:
+      213: 3776722739781916174
+    second: Karekter W_12
+  - first:
+      213: -3894997721305156476
+    second: Karekter W_13
+  - first:
+      213: 234908118359845439
+    second: Karekter W_14
+  - first:
+      213: -8739683403161828205
+    second: Karekter W_15
+  - first:
+      213: -65797366877652809
+    second: Karekter W_16
+  - first:
+      213: -2299206786137437787
+    second: Karekter W_17
+  - first:
+      213: -383561782597655154
+    second: Karekter W_18
+  - first:
+      213: -4476212690184302212
+    second: Karekter W_19
+  - first:
+      213: 8670727674356723773
+    second: Karekter W_20
+  - first:
+      213: 8000932414148227737
+    second: Karekter W_21
+  - first:
+      213: 8321480758798866658
+    second: Karekter W_22
+  - first:
+      213: 6570234885338516951
+    second: Karekter W_23
+  - first:
+      213: -1236477653322527613
+    second: Karekter W_24
+  - first:
+      213: -251509757253988861
+    second: Karekter W_25
+  - first:
+      213: -3202909661533401973
+    second: Karekter W_26
+  - first:
+      213: 264337271726805460
+    second: Karekter W_27
+  - first:
+      213: 2221174216629923159
+    second: Karekter W_28
+  - first:
+      213: 7269949527829985052
+    second: Karekter W_29
+  - first:
+      213: 6827305661552803789
+    second: Karekter W_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Karekter W_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 147
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b653d77c59888c0800000000000000
+      internalID: -3996779985259631817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_1
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 913
+        width: 95
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 927b9fe560593d0c0800000000000000
+      internalID: -4552130943745673431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_2
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 912
+        width: 96
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b61ec1e9ef57f30800000000000000
+      internalID: 4572840951707429766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_3
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 912
+        width: 94
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751bcdbace2b3b930800000000000000
+      internalID: 4157863610558493015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 912
+        width: 95
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ddf3583e9ff17e0800000000000000
+      internalID: -1792439371081720538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_5
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 912
+        width: 134
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ebf20a9f856aba0800000000000000
+      internalID: -6078072817932321145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_6
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 693
+        width: 99
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa642b1611c2552b0800000000000000
+      internalID: -5596518508772833622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_7
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 693
+        width: 100
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ccd379c9a1f61c0800000000000000
+      internalID: -4508355442119947165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_8
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 693
+        width: 105
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c150c9b6c93f3cf0800000000000000
+      internalID: -270433926936243774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_9
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 693
+        width: 99
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c47cbd9bc4a17120800000000000000
+      internalID: 2409888470051615942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_10
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 693
+        width: 100
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984995ddbb15403c0800000000000000
+      internalID: -4394297469092391799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 693
+        width: 100
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320642901a7b61de0800000000000000
+      internalID: -1362699934961999837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 461
+        width: 105
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0657d7625d996430800000000000000
+      internalID: 3776722739781916174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_13
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 461
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48476a4853032f9c0800000000000000
+      internalID: -3894997721305156476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_14
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 461
+        width: 118
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3aa1b560bf824300800000000000000
+      internalID: 234908118359845439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_15
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 461
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3948929ef3866b680800000000000000
+      internalID: -8739683403161828205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_16
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 461
+        width: 106
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8f918b4ad361ff0800000000000000
+      internalID: -65797366877652809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_17
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 461
+        width: 106
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a94c171c939710e0800000000000000
+      internalID: -2299206786137437787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 249
+        width: 133
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85e9d647905daaf0800000000000000
+      internalID: -383561782597655154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_19
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 249
+        width: 119
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711876364c41e1c0800000000000000
+      internalID: -4476212690184302212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_20
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 251
+        width: 109
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d307e2e51ec945870800000000000000
+      internalID: 8670727674356723773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_21
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 253
+        width: 109
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992b631d3a5090f60800000000000000
+      internalID: 8000932414148227737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_22
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 261
+        width: 106
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8547939a6db7370800000000000000
+      internalID: 8321480758798866658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_23
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 255
+        width: 110
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd4b7f41d92e2b50800000000000000
+      internalID: 6570234885338516951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c800d102627dee0800000000000000
+      internalID: -1236477653322527613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_25
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 37
+        width: 108
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ec4555535728cf0800000000000000
+      internalID: -251509757253988861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_26
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 37
+        width: 116
+        height: 149
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c82a0f1aafc83d0800000000000000
+      internalID: -3202909661533401973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_27
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 37
+        width: 129
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d11c2e195d1ba300800000000000000
+      internalID: 264337271726805460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_28
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 37
+        width: 110
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dab768e2233de10800000000000000
+      internalID: 2221174216629923159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Karekter W_30
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 37
+        width: 111
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf3ed993567fbe50800000000000000
+      internalID: 6827305661552803789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0c37769aefaa79742b5a818e70588444
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Karekter W_0: -3996779985259631817
+      Karekter W_1: -4552130943745673431
+      Karekter W_10: -4394297469092391799
+      Karekter W_11: -1362699934961999837
+      Karekter W_12: 3776722739781916174
+      Karekter W_13: -3894997721305156476
+      Karekter W_14: 234908118359845439
+      Karekter W_15: -8739683403161828205
+      Karekter W_16: -65797366877652809
+      Karekter W_17: -2299206786137437787
+      Karekter W_18: -383561782597655154
+      Karekter W_19: -4476212690184302212
+      Karekter W_2: 4572840951707429766
+      Karekter W_20: 8670727674356723773
+      Karekter W_21: 8000932414148227737
+      Karekter W_22: 8321480758798866658
+      Karekter W_23: 6570234885338516951
+      Karekter W_24: -1236477653322527613
+      Karekter W_25: -251509757253988861
+      Karekter W_26: -3202909661533401973
+      Karekter W_27: 264337271726805460
+      Karekter W_28: 2221174216629923159
+      Karekter W_29: 7269949527829985052
+      Karekter W_3: 4157863610558493015
+      Karekter W_30: 6827305661552803789
+      Karekter W_4: -1792439371081720538
+      Karekter W_5: -6078072817932321145
+      Karekter W_6: -5596518508772833622
+      Karekter W_7: -4508355442119947165
+      Karekter W_8: -270433926936243774
+      Karekter W_9: 2409888470051615942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
